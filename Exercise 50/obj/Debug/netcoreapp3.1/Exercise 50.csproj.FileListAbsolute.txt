@@ -1,0 +1,13 @@
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.exe
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.deps.json
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.runtimeconfig.json
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.runtimeconfig.dev.json
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.dll
+C:\Users\n\source\repos\49and50\Exercise 50\bin\Debug\netcoreapp3.1\Exercise 50.pdb
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.AssemblyInfoInputs.cache
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.AssemblyInfo.cs
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.dll
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.pdb
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.genruntimeconfig.cache
+C:\Users\n\source\repos\49and50\Exercise 50\obj\Debug\netcoreapp3.1\Exercise 50.csproj.AssemblyReference.cache
